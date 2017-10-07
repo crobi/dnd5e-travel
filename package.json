@@ -21,6 +21,7 @@
     "redux": "^3.7.2",
     "redux-devtools": "^3.4.0",
     "typescript": "^2.5.3",
+    "uglifyjs-webpack-plugin": "^0.4.6",
     "webpack": "^3.6.0"
   },
   "keywords": [
