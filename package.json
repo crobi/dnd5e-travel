@@ -1,0 +1,35 @@
+{
+  "name": "dnd5e-travel",
+  "version": "0.0.1",
+  "description": "D&D 5e travel tool",
+  "repository": " ",
+  "main": "index.html",
+  "dependencies": {
+    "@types/material-ui": "^0.18.2",
+    "@types/react": "^15.5.0",
+    "@types/react-dom": "^15.5.0",
+    "@types/react-redux": "^5.0.0",
+    "@types/react-tap-event-plugin": "0.0.30",
+    "@types/redux": "^3.6.0",
+    "@types/redux-devtools": "^3.0.40",
+    "firebase": "^4.5.0",
+    "material-ui": "^0.18.2",
+    "react": "^15.5.0",
+    "react-dom": "^15.5.0",
+    "react-redux": "^5.0.0",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux": "^3.7.2",
+    "redux-devtools": "^3.4.0",
+    "typescript": "^2.5.3",
+    "webpack": "^3.6.0"
+  },
+  "keywords": [
+    "dnd"
+  ],
+  "author": "Robert Autenrieth",
+  "license": "ISC",
+  "devDependencies": {
+    "source-map-loader": "^0.2.2",
+    "ts-loader": "^2.3.7"
+  }
+}

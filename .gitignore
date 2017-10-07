@@ -1,0 +1,5 @@
+node_modules
+.vscode
+dist/bundle.js
+dist/bundle.js.map
+firebase-debug.log
